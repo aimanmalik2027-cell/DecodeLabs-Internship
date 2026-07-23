@@ -19,7 +19,7 @@ I am an Accounting & Finance student with a strong interest in Digital Marketing
 | Project | Description | Link |
 |---------|-------------|------|
 | 📱 Project 1 | Social Media Strategy | [Open Project](./Project-01-Social-Media-Strategy) |
-| 🔍 Project 2 | | Project 2 | SEO Keyword Research | [Open Project](./Project-02-SEO-Keyword-Research) |
+| 🔍 Project 2 | | 🔍 Project 2 | SEO Keyword Research | [Open Project](https://github.com/aimanmalik2027-cell/DecodeLabs-Internship/tree/main/Project-02-SEO-Keyword-Research) |
 | ✍️ Project 3 | Content Writing & SEO Optimization | [Open Project](./Project-03-Content-Writing-Optimization) |
 | 📊 Project 4 | Social Media Analytics | [Open Project](./Project-04-Social-Media-Analytics) |
 
