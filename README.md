@@ -14,52 +14,18 @@ I am an Accounting & Finance student with a strong interest in Digital Marketing
 
 # Internship Projects
 
-## Project 1 – Social Media Strategy
+## 📂 Internship Projects
 
-Brand: GlowNest Skincare
+| Project | Description | Link |
+|---------|-------------|------|
+| 📱 Project 1 | Social Media Strategy | [Open Project](./Project-01-Social-Media-Strategy) |
+| 🔍 Project 2 | SEO Keyword Research | [Open Project](./Project-02-SEO-KeyWord-Research) |
+| ✍️ Project 3 | Content Writing & SEO Optimization | [Open Project](./Project-03-Content-Writing-Optimization) |
+| 📊 Project 4 | Social Media Analytics | [Open Project](./Project-04-Social-Media-Analytics) |
 
-- Social Media Strategy
-- Target Audience
-- Content Pillars
-- Posting Schedule
-- Brand Goals
 
----
 
-## Project 2 – SEO Keyword Research
 
-Brand: GlowNest Skincare
-
-- Keyword Research
-- Search Intent
-- Competitor Analysis
-- SEO Planning
-
----
-
-## Project 3 – Content Writing & SEO Optimization
-
-Brand: GlowNest Skincare
-
-- SEO Blog Writing
-- Meta Title
-- Meta Description
-- Keyword Optimization
-- On-Page SEO
-
----
-
-## Project 4 – Social Media Analytics
-
-Brand: GlowNest Skincare
-
-- Performance Analysis
-- Engagement Rate
-- Reach
-- Impressions
-- Content Insights
-
----
 
 # Skills Learned
 
