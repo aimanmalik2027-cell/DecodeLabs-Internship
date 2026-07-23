@@ -23,17 +23,16 @@ I am an Accounting & Finance student with a strong interest in Digital Marketing
 
 
 
-# Skills Learned
+## 🛠️ Skills Learned
 
 - Digital Marketing
 - Social Media Marketing
 - SEO
+- Keyword Research
 - Content Writing
-- Analytics
+- Social Media Analytics
 - Canva
 - GitHub
-
----
 
 # Tools Used
 
